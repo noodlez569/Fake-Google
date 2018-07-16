@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>fake google</title>
+</head>
+<body>
+	<main>
+		<nav class="nav-top">
+		<a class="gmail" href="https://mail.google.com/mail/?tab=wm">Gmail</a>
+		<a class="images" href="https://www.google.ca/imghp?hl=en&tab=wi">Image</a>
+		<a class="apps-logo" href=""><img id="apps-logo"> src="images/google-app.png" alt="Google App Logo"></a>
+		<button id="bttn-signin" type="button">
+		<a href="Try to signin">Sign In</a>
+		</button>
